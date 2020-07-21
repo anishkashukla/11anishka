@@ -1,4 +1,4 @@
-# Hi there 👋 I'm <a href="https://github.com/anishkashukla">Anishka </a>
+# Hi there 👋 I'm <a href="https://github.com/11anishka">Anishka </a>
 <a href="https://twitter.com/AnishkaShukla">
   <img align="left" alt=" Anishka Shukla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -45,7 +45,7 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 
 
 
-![Anishka's github stats](https://github-readme-stats.vercel.app/api?username=anishkashukla&show_icons=true&hide_border=true)
+![Anishka's github stats](https://github-readme-stats.vercel.app/api?username=11anishka&show_icons=true&hide_border=true)
 
-:pushpin: Liked this introduction, You can also make a similar one for yourself. Star and Fork this [README](https://github.com/anishkashukla/anishkashukla) :pencil:
+:pushpin: Liked this introduction, You can also make a similar one for yourself. Star and Fork this [README](https://github.com/11anishka/11anishka) :pencil:
 
