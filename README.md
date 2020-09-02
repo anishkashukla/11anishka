@@ -38,7 +38,7 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/68271481/91988101-84d3ec80-ed4c-11ea-98b8-1a87b703d592.png)"</code>
+<code><img height="20" src="https://user-images.githubusercontent.com/68271481/91988101-84d3ec80-ed4c-11ea-98b8-1a87b703d592.png"</code>
 
 
 
